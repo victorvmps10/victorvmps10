@@ -33,5 +33,9 @@
 
 <div>
     <h1>Projeto Principal: DonationCity</h1>
+  <p>Projeto de um aplicativo mobile de doação para ajudar pessoas que precisam de acessibilidade, Ele é para uma exposição de trabalhos da escola Fortec Praia Grande, chamada Expotec</p>
+  <p>Trabalho do meu grupo, turma: TIN1A</p>
+  <a href="https://github.com/victorvmps10/DonationCity">
+    Repositorio do projeto
+  </a>
 </div>
-###
